@@ -1,6 +1,8 @@
 # Free-iOS-Source-Ted
 
-iOS Source By Ted | Made by Qehhre
+iOS Source By Ted 
+
+🌵🌵🌵
 
 Author (GitHub) ---> https://github.com/joeyjurjens/iOS-Mod-Menu-Template-for-Theos
 
